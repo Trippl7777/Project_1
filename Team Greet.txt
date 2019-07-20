@@ -1,13 +1,11 @@
 
 Hello Team!
 
-<<<<<<< HEAD
 Rude
-=======
 Editing Works! :D
 
 
 Hi team
 
 Test number 1
->>>>>>> data_analytics_project_1
+Rude
