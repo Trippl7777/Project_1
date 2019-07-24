@@ -1,0 +1,6 @@
+import requests
+import json
+url = 'https://rest.coinapi.io/v1/assets'
+headers = {'X-CoinAPI-Key' : '827747EB-8E89-4AE5-8314-DA45EE3CAF98'}
+response = requests.get(url, headers=headers)
+data = response.json()
